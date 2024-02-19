@@ -1,0 +1,24 @@
+element.style {
+}
+user agent stylesheet
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    
+    text-align: center;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+th, td {
+    border: 1px solid black;
+  }
